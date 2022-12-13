@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GeekBrains\\Yrok3_Funkcii_Home_Work\\Task25\\Task25.csproj": {}
+    "C:\\GreekBrains\\10_12_22\\123\\Task25\\Task25.csproj": {}
   },
   "projects": {
-    "D:\\GeekBrains\\Yrok3_Funkcii_Home_Work\\Task25\\Task25.csproj": {
+    "C:\\GreekBrains\\10_12_22\\123\\Task25\\Task25.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GeekBrains\\Yrok3_Funkcii_Home_Work\\Task25\\Task25.csproj",
+        "projectUniqueName": "C:\\GreekBrains\\10_12_22\\123\\Task25\\Task25.csproj",
         "projectName": "Task25",
-        "projectPath": "D:\\GeekBrains\\Yrok3_Funkcii_Home_Work\\Task25\\Task25.csproj",
-        "packagesPath": "C:\\Users\\iSO\\.nuget\\packages\\",
-        "outputPath": "D:\\GeekBrains\\Yrok3_Funkcii_Home_Work\\Task25\\obj\\",
+        "projectPath": "C:\\GreekBrains\\10_12_22\\123\\Task25\\Task25.csproj",
+        "packagesPath": "C:\\Users\\79324\\.nuget\\packages\\",
+        "outputPath": "C:\\GreekBrains\\10_12_22\\123\\Task25\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\iSO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\79324\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
